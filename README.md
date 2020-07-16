@@ -1,4 +1,4 @@
-# FS19_TidyShop
+# TidyShop for Farming Simulator 19
 
 The goal of this mod is to (try) to clean up the store to make it easier to find the right equipment through several new distict categories. A secondary goal is to give the store a more uniform look and feel. This is done by merging some categories (which are too specific/narrow), splitting up some categories (which are to general/broad) as well as moving some items from Vehicles to Implements (like with combined Trucks + Superstructure packs) and vice versa.
 
