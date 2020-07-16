@@ -20,7 +20,7 @@ Additional features:
 - The rules for moving store items between categories (and some additional tweaks) is managed via a custom "query language" which should make it (fairly) simple to add your own rules if desired.
 - Compatible with the CategoryAdder mod as well as the "AddStoreCategory" script by Ifko[nator] and the "StoreManager" feature in GlobalCompany
 
-The list of vehicles and implements that is touched by the mod is by no means complete and I encourage you to reach out to me and suggest what items could be added. Find me at the forum or via GitHub.
+The list of vehicles and implements that is touched by the mod is by no means complete and I encourage you to reach out to me and suggest what items could be added. 
 
 Note: For a complete list of all new categories, for use in your own mod, check out 'docs/new_categories.txt' in the archive.
 
