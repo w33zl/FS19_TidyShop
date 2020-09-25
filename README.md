@@ -21,7 +21,7 @@ This script generally does two things. Firstly it adds a bunch of new/modified c
 
 Categories that are too specific/narrow will be merged, categories that are too general/broad will be split up and some items will be moved from Vehicles to Implements (and vice versa). Highly specialized categories such as Animal Transport or Slurry Tanks is left untouched while more generic items such as "autoloading flatbed semitrailers" is moved from Baling Technology to a more generic Semitrailers category.
 
-_Final notes:_
+## Final notes:
 For a complete list of all new categories, especially if you want to include any of them in your own mod, check out my project page at https://go.xilent.se/fs19_tidyshop. Also, the list of vehicles and implements that this mod covers is by no means complete so I encourage you to post suggetions at the aforementioned project page.
 
 A special thanks goes to ViperGTS96 for creating the great mod 'Category Adder' which pointed me in the right direction to realize this idea!
