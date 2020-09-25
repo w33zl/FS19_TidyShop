@@ -4,7 +4,7 @@
 
 The goal of this mod is to to clean up the store to make it easier to find the right equipment for every task. A secondary goal is to give the store a more uniform look and feel.
 
-**For more details and to make suggestions check out the project page for TidyShop at https://go.xilent.se/fs19_tidyshop.**
+**For more details, bug reports and to make suggestions check out the *project page for TidyShop at https://go.xilent.se/fs19_tidyshop*.**
 
 ## Category changes:
 - New specialized vehicle categories like Hooklift, SwapBody/AR, Fixed-body trucks, Light Commercial Vehicles, Construction, Excavators and more.
