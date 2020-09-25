@@ -2,29 +2,26 @@
 
 ![TidyShop](https://user-images.githubusercontent.com/7383510/94240583-c43cc580-ff13-11ea-987e-2e6b91a6d333.jpg)
 
-The goal of this mod is to (try) to clean up the store to make it easier to find the right equipment through several new distict categories. A secondary goal is to give the store a more uniform look and feel. This is done by merging some categories (which are too specific/narrow), splitting up some categories (which are to general/broad) as well as moving some items from Vehicles to Implements (like with combined Trucks + Superstructure packs) and vice versa.
+The goal of this mod is to to clean up the store to make it easier to find the right equipment for every task. A secondary goal is to give the store a more uniform look and feel.
 
-Highly specialized categories such as Animal Transport or Slurry Tanks is left untouched while more generic items such as "autoloading flatbed semitrailers" is moved from Baling Technology to a more generic Semitrailers category.
+## Category changes:
+- New specialized vehicle categories like Hooklift, SwapBody/AR, Fixed-body trucks, Light Commercial Vehicles, Construction, Excavators and more.
+- New specialized trailer categories for Light Trailers, Semitrailers, Liquid Transport and UTV/ATV trailers.
+- New specialized categories for tools/implements like Hooklift Containers, SwapBody Superstructures, Cranes & Transport, Snow Removal and Hand Tools.
+- Additional variants of basegame categeries like Compact Tractors and XL/Tracked Tractors.
 
-## Changes to categories     
-- New vehicle categories with specific purposes like Hooklift, SwapBody/AR, Fixed-body trucks (tippers and flatbeds), Light Commercial Vehicles (pickup vans like MB Sprinter) and more.
-- New catgegories for other specific types of vehicles like Construction (e.g. dumper or grader), Communal (like buses and taxis) and Emergency/Rescue (different types of emergency vehicles like police and tow trucks).
-- Additional categeries for Compact Tractors (e.g. JD 2032) and XL Tractors (like Fendt 1100 MT or BigBud).
-- New specialized trailer categories for Light Trailers (typically 3.5T trailers), Semi-trailers, Liquid Transport and UTV/ATV trailers.
-- Additonal categories for specific purposes like Snow Removal, Hand Tools and Cranes & Transport (both cranes and utilities like belt support).
-- Hooklift Containers: This category gathers all hooklift containers and has support for ITR 26.23, ITR 26.33 and TopLiftStaja.
-- SwapBody Suoperstructures: Gathers 'frames' from different AR/"module" systems like Man Modul, D754, Joskin Cargo, Man 33-414 6x6, NMC, Annaburger HTS29.79, Renault C280 etc.
-- The original category for Trucks should now (mostly) contain semi-trailer trucks ('road tractors'/'articulated lorry') and the original category Trailers should now primarily contain tipper/dump/grain trailers with hitches (non-semitrailer variants).
+## Additional features:
+- Unique and descriptive category thumbnails in the same style as basegame categories.
+- More descriptive "subtitle" in the store with the actual name of the mod (instead of "Mod").
+- Custom "query language" to make it (fairly) simple to add or modify categories if desired.
+- Compatible with the CategoryAdder mod, the "AddStoreCategory" script and the "StoreManager" feature in GlobalCompany
 
-## Additional features
-- Each new category has a thumbnail with a sample of the vehicle or implement in the category and tries to be as similar as possible as the default basegame category images.
-- The generic "Mod" subtitle in the store is replaced with a more informative subtitle
-- The rules for moving store items between categories (and some additional tweaks) is managed via a custom "query language" which should make it (fairly) simple to add your own rules if desired.
-- Compatible with the CategoryAdder mod as well as the "AddStoreCategory" script by Ifko[nator] and the "StoreManager" feature in GlobalCompany
+## How it works:
+This script generally does two things. Firstly it adds a bunch of new/modified categories and then it moves items (vehicles, implements etc) between these different categories. 
 
-## Final notes
-The list of vehicles and implements that is touched by the mod is by no means complete and I encourage you to reach out to me and suggest what items could be added. 
+Categories that are too specific/narrow will be merged, categories that are too general/broad will be split up and some items will be moved from Vehicles to Implements (and vice versa). Highly specialized categories such as Animal Transport or Slurry Tanks is left untouched while more generic items such as "autoloading flatbed semitrailers" is moved from Baling Technology to a more generic Semitrailers category.
 
-Note: For a complete list of all new categories, for use in your own mod, check out 'docs/new_categories.txt' in the archive.
+_Final notes:_
+For a complete list of all new categories, especially if you want to include any of them in your own mod, check out my project page at https://go.xilent.se/fs19_tidyshop. Also, the list of vehicles and implements that this mod covers is by no means complete so I encourage you to post suggetions at the aforementioned project page.
 
-*A special thanks goes to ViperGTS96 for creating the great mod 'Category Adder' which pointed me in the right direction to realize this idea!*
+A special thanks goes to ViperGTS96 for creating the great mod 'Category Adder' which pointed me in the right direction to realize this idea!
