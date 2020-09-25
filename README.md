@@ -1,5 +1,7 @@
 # TidyShop for Farming Simulator 19
 
+![TidyShop](https://user-images.githubusercontent.com/7383510/94240583-c43cc580-ff13-11ea-987e-2e6b91a6d333.jpg)
+
 The goal of this mod is to (try) to clean up the store to make it easier to find the right equipment through several new distict categories. A secondary goal is to give the store a more uniform look and feel. This is done by merging some categories (which are too specific/narrow), splitting up some categories (which are to general/broad) as well as moving some items from Vehicles to Implements (like with combined Trucks + Superstructure packs) and vice versa.
 
 Highly specialized categories such as Animal Transport or Slurry Tanks is left untouched while more generic items such as "autoloading flatbed semitrailers" is moved from Baling Technology to a more generic Semitrailers category.
